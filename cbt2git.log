@@ -1,0 +1,7 @@
+2023-08-06 01:26:14.960770 - Initialized conversion of CBT154
+2023-08-06 01:26:14.990327 - Received CBT.V505.FILE154.PDS from FILE154.XMI 
+2023-08-06 01:26:14.992333 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE154.PDS, moved to PDS/$$$#DATE
+2023-08-06 01:26:14.993600 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE154.PDS, moved to PDS/$$$DOC
+2023-08-06 01:26:14.994521 - Found @FILE154.txt (text/plain) in CBT.V505.FILE154.PDS, moved to PDS/@FILE154
+2023-08-06 01:26:14.995502 - Found GIMELMNQ.txt (text/plain) in CBT.V505.FILE154.PDS, moved to PDS/GIMELMNQ
+2023-08-06 01:26:14.996459 - Found GIMELMN2.txt (text/plain) in CBT.V505.FILE154.PDS, moved to PDS/GIMELMN2
